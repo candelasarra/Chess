@@ -9,7 +9,6 @@ import chess.Pawn;
 import chess.Piece;
 import chess.Square;
 
-import org.junit.jupiter.api.BeforeEach;
 
 public class SquareTest {
     final private int y = 7;
